@@ -1,6 +1,6 @@
 # Taro
 
-### Taro框架简介
+### 1.Taro框架简介
 
 ![](https://github.com/tianshaojun/Taro/blob/master/md_img/taro001.jpg)
 
@@ -15,7 +15,7 @@
 + 字节跳动小程序
 + QQ轻应用
 
-### Taro开发环境的搭建
+### 2.Taro开发环境的搭建
 
 + Taro开发环境的安装
    1.npm的安装方式  npm install -g @tarojs/cli
@@ -23,7 +23,7 @@
 + 用脚手架创建项目  taro init myDemo1
 + 启动项目  yarn dev:h5
 
-### Taro生成小程序代码
+### 3.Taro生成小程序代码
 
 + yarn dev:weapp
 
