@@ -18,14 +18,20 @@
 ### 2.Taro开发环境的搭建
 
 + Taro开发环境的安装
-  1.npm的安装方式  npm install -g @tarojs/cli
-  2.yarn的安装方式  yarn global add @tarojs/cli
+    1.npm的安装方式  npm install -g @tarojs/cli
+    2.yarn的安装方式  yarn global add @tarojs/cli
 + 用脚手架创建项目  taro init myDemo1
 + 启动项目  yarn dev:h5
 
 ### 3.Taro生成小程序代码
 
 + yarn dev:weapp
+
+ + dialog.showOpenDialog()
+      1. title: String(可选)，对话框的标题
+      2. defaultPath: String(可选)，默认打开的路径
+      3. buttonLabel: String(可选)，确认按钮的自定义标签
+      4. filters: 文件选择过滤器
 
 
 
