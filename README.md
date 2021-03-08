@@ -18,8 +18,8 @@
 ### 2.Taro开发环境的搭建
 
 + Taro开发环境的安装
-   1.npm的安装方式  npm install -g @tarojs/cli
-   2.yarn的安装方式  yarn global add @tarojs/cli
+  1.npm的安装方式  npm install -g @tarojs/cli
+  2.yarn的安装方式  yarn global add @tarojs/cli
 + 用脚手架创建项目  taro init myDemo1
 + 启动项目  yarn dev:h5
 
