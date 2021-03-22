@@ -47,6 +47,21 @@
 
 ### 5.Taro使用React Hooks新特性
 
+### 6.Taro中子组件的编写和传值
+
+### 7.Taro路由配置介绍
+
++ navigateTo: 最基本的跳转方式，可以返回上级页面。三端都支持的，小程序、H5、React Native。
++ redirectTo：不记录上级页面，直接跳转。三端都支持的，小程序、H5、React Native。
++ switchTab： Tab之间进行切换，这个要配合Taro的导航栏一起使用，三端都支持的，小程序、H5、React Native。
++ navigateBack: 返回上一级页面，这个在小程序中常使用，三端都支持的，小程序、H5、React Native。
++ relaunch：关闭所有页面，打开到应用内某个页面。三端都支持的，小程序、H5、React Native。
++ getCurrentPages:获取当前页面信息所用，这个H5是不支持的。(注意)
+
+### 8.Taro页面间传递参数
+
+
+
 
 
 
